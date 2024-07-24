@@ -11,9 +11,3 @@ Technologies Used:
 Django: The primary framework for building the backend.
 Django REST Framework: For creating and managing the API endpoints.
 PostgreSQL: Used as the database to store user and post data.
-Installation and Setup:
-Clone the repository: git clone <repository-url>
-Navigate to the project directory: cd instagram-clone-backend
-Install the dependencies: pip install -r requirements.txt
-Apply database migrations: python manage.py migrate
-Run the development server: python manage.py runserver
